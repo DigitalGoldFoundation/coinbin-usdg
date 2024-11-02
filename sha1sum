@@ -9,7 +9,7 @@
 f7c09f2f5a721371e7d478050119f7e2d58e3ef9  ./js/crypto-sha256-hmac.js
 0700fc9ad2e39adeca0b50614bb3d327fb49f609  ./js/crypto-sha256.js
 e6810907c901e6bd34a28735a68850936f0823b8  ./js/ellipticcurve.js
-ae49e56999d82802727455f0ba83b63acd90a22b  ./js/jquery-1.9.1.min.js
+ae49e56999d82802727455f0ba83b63acd90a22b  ./js/jquery-1.12.4.min.js
 be17ca7c834204bff711f582e41f76c06d472bac  ./js/jsbn.js
 ce4fa351a2e62accf7fad77110fa4ddb09a324bf  ./js/moment.min.js
 0ce26da5ef686d4ece91acd6cb6506559e11ab07  ./js/qcode-decoder.min.js
